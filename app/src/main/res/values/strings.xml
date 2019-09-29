@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">EpoxySample</string>
-    <string name="item_description">description</string>
+    <string name="nachosDesc">
+    Nachos is a dish from northern Mexico that
+    consists of tortilla chips covered with mince and cheese.
+    </string>
 </resources>
